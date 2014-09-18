@@ -1,4 +1,6 @@
-# RestKit
+# RestKit+Logging
+
+_Fork that adds CocoaLumberjack, NBULog and plain NSLog support to RestKit_
 
 [![Build Status](http://img.shields.io/travis/RestKit/RestKit/development.svg?style=flat)](https://travis-ci.org/RestKit/RestKit)
 [![Pod Version](http://img.shields.io/cocoapods/v/RestKit.svg?style=flat)](http://cocoadocs.org/docsets/RestKit/)
