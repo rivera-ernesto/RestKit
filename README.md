@@ -2,10 +2,10 @@
 
 _Fork that adds CocoaLumberjack, NBULog and plain NSLog support to RestKit_
 
-[![Build Status](http://img.shields.io/travis/RestKit/RestKit/development.svg?style=flat)](https://travis-ci.org/RestKit/RestKit)
-[![Pod Version](http://img.shields.io/cocoapods/v/RestKit.svg?style=flat)](http://cocoadocs.org/docsets/RestKit/)
-[![Pod Platform](http://img.shields.io/cocoapods/p/RestKit.svg?style=flat)](http://cocoadocs.org/docsets/RestKit/)
-[![Pod License](http://img.shields.io/cocoapods/l/RestKit.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0.html)
+[![Build Status](http://img.shields.io/travis/rivera-ernesto/RestKit+Logging/development.svg?style=flat)](https://travis-ci.org/rivera-ernesto/RestKit+Logging)
+[![Pod Version](http://img.shields.io/cocoapods/v/RestKit+Logging.svg?style=flat)](http://cocoadocs.org/docsets/RestKit+Logging/)
+[![Pod Platform](http://img.shields.io/cocoapods/p/RestKit+Logging.svg?style=flat)](http://cocoadocs.org/docsets/RestKit+Logging/)
+[![Pod License](http://img.shields.io/cocoapods/l/RestKit+Logging.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![Visit our IRC channel](http://img.shields.io/badge/IRC-%23RestKit-green.svg?style=flat)](https://kiwiirc.com/client/irc.freenode.net/?nick=rkuser|?&theme=basic#RestKit)
 
 RestKit is a modern Objective-C framework for implementing RESTful web services clients on iOS and Mac OS X. It provides a powerful [object mapping](https://github.com/RestKit/RestKit/wiki/Object-mapping) engine that seamlessly integrates with [Core Data](http://developer.apple.com/library/mac/#documentation/cocoa/Conceptual/CoreData/cdProgrammingGuide.html) and a simple set of networking primitives for mapping HTTP requests and responses built on top of [AFNetworking](https://github.com/AFNetworking/AFNetworking). It has an elegant, carefully designed set of APIs that make accessing and modeling RESTful resources feel almost magical. For example, here's how to access the Twitter public timeline and turn the JSON contents into an array of Tweet objects:
